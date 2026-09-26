@@ -5,7 +5,7 @@
  
 A single-page personal portfolio for **Ruban N**, a Computer Science & Engineering student and full-stack developer intern, built to showcase his skills, experience, and certifications to recruiters.
  
-# **🔗 Live site:** https://personal-portfolio-pi-woad-95.vercel.app/
+# **🔗 Live site:** https://ruban38.vercel.app/
  
 ---
  
